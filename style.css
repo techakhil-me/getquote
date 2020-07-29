@@ -4,10 +4,10 @@ body {
 }
 h1,
 h3 {
-  margin-top: 10vh;
+  margin-top: 20vh;
 }
 button {
-  bottom: 10vh;
+  bottom: 5vh;
   position: absolute;
   padding: 1.5em 5em;
   background: #cecece;
