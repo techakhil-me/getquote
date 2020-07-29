@@ -6,7 +6,7 @@ function getQuote(){
     let max = response.length;
     let min = 0;
     let k = Math.floor(Math.random()*(max-min))
-    console.log(response[k]);
+//     console.log(response[k]);
     var randomquote = response[k];
     if (randomquote["author"]==null){
         return getQuote();
